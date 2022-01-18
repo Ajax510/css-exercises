@@ -1,4 +1,4 @@
-p {
+.odd {
   background-color: rgba(255, 0, 111, 0.578);
   font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -7,12 +7,12 @@ p {
   font-size: 36px;
 }
 
-#Number-3 {
+.Number-3 {
   font-size: 24px;
 }
 
 #Number-4 {
-  background-color: #90ee90;
+  background-color: hsl(120, 73%, 75%);
   font-size: 24px;
   font-weight: bold;
 }
